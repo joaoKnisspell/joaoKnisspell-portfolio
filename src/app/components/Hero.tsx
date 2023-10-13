@@ -70,7 +70,7 @@ export function Hero() {
       </p>
       <div className="flex flex-col items-center gap-4 md:flex-row">
         <a
-          href="/cv.pdf"
+          href="/JOAO_KNISSPELL_CV"
           download
           className="anim-up group flex translate-y-6 items-center gap-2 rounded-lg bg-zinc-800 px-4 py-2 text-sm font-medium text-zinc-100 opacity-0 dark:border dark:border-yellow-500 dark:bg-transparent dark:text-yellow-500 md:px-6 md:py-3 md:text-base"
         >
