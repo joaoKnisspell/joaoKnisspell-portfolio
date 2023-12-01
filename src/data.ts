@@ -50,6 +50,16 @@ export const experiencesData = [
 
 export const projects = [
   {
+    title: 'Sistema Bix',
+    desc: 'A aplicação Bix é um sistema de cadastro que desenvolvi para que os usuários(admin) possam realizar o cadastro de empresas e funcionários, além disso, caso o usuário tenha um cadastro de convidado ele terá acesso apenas para a visualização destes dados. ',
+    tags: ['TypeScript', 'React.js', 'TailwindCSS', 'Firebase'],
+    links: [
+      'bix-project-jknisspell.vercel.app',
+      'https://github.com/joaoKnisspell/bix-project-jknisspell',
+    ],
+    imgPath: '/bix.jpg',
+  },
+  {
     title: 'Next Bucks',
     desc: 'O Next Bucks é uma aplicação que desenvolvi com o objetivo de auxiliar seus usuários a terem um controle mais eficaz de suas finanças. Com ele, você pode criar e remover transações, além de estabelecer, editar e eliminar metas financeiras de acordo com suas necessidades.',
     tags: ['TypeScript', 'Next.js', 'TailwindCSS', 'Firebase'],

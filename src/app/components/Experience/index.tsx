@@ -38,7 +38,7 @@ export default function Experience() {
             title={ele.title}
             locale={ele.locale}
             desc={ele.desc}
-            className="anim-card-right flex w-full -translate-x-14 flex-col items-start rounded-lg border border-gray-300 p-4 text-start text-zinc-600 opacity-0 shadow-lg dark:border-yellow-500 md:p-8"
+            className="anim-card-right flex w-full -translate-x-14 flex-col items-start rounded-lg border border-gray-300 p-4 text-start text-zinc-600 opacity-0 shadow-lg  md:p-8"
           />
         )
       })}

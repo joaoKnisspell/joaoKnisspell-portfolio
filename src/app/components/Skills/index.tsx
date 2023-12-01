@@ -18,6 +18,8 @@ export default function Skills() {
     { name: 'Styled-Components', imgPath: 'sc.svg' },
     { name: 'Stitches', imgPath: 'ss.png' },
     { name: 'Firebase', imgPath: 'fb.svg' },
+    { name: 'Git', imgPath: 'gt.svg' },
+    { name: 'Github', imgPath: 'gth.svg' },
   ]
 
   useLayoutEffect(() => {

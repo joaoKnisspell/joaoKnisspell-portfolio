@@ -25,7 +25,7 @@ export function AboutMe() {
     <div className="about-wrapper mx-auto max-w-[1220px] px-6 text-justify md:px-0 md:text-center">
       <div className="mx-auto flex max-w-2xl flex-col gap-4 text-zinc-600">
         <SectionTitle title="Sobre mim" />
-        <p className="anim-about-up translate-y-6 opacity-0 dark:text-zinc-400 md:text-lg">
+        <p className="anim-about-up translate-y-6 opacity-0  md:text-lg">
           Insatisfeito durante minha graduação em Educação Física, tomei a
           decisão de fazer uma mudança de carreira e perseguir meu sonho de
           trabalhar com tecnologia. Após assistir a aulas de programação no
@@ -41,7 +41,7 @@ export function AboutMe() {
           Estou atualmente buscando oportunidades como Desenvolvedor Front-End
           React.
         </p>
-        <p className=" anim-about-up translate-y-6 opacity-0 dark:text-zinc-400 md:text-lg">
+        <p className=" anim-about-up translate-y-6 opacity-0 md:text-lg">
           Quando não estou codificando, desfruto da prática de esportes, passo
           tempo com minha família e assisto a séries e animes. Além disso, tenho
           um grande interesse em aprender coisas novas, especialmente
