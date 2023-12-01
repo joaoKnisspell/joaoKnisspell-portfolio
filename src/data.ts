@@ -43,7 +43,7 @@ export const experiencesData = [
     title: 'Digital Business - Web Designer Junior',
     locale: 'Porto Alegre - RS',
     desc: 'Após completar dois meses de estágio, tive o privilégio de ser efetivado na empresa. Isso me proporcionou uma oportunidade incrível para continuar aprimrando minhas habilidades em HTML, CSS, JavaScript e GSAP. Durante esse período, também adquiri experiência valiosa em projetar e implementar layouts responsivos, assegurando que os sites fossem visualmente cativantes e funcionais em diversos dispositivos, incluindo desktops, tablets e smartphones.',
-    date: 'Junho 2023, cargo atual',
+    date: 'Junho 2023 até Novembro 2023',
     icon: React.createElement(Code2),
   },
 ]
