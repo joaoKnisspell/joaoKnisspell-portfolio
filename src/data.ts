@@ -54,7 +54,7 @@ export const projects = [
     desc: 'A aplicação Bix é um sistema de cadastro que desenvolvi para que os usuários(admin) possam realizar o cadastro de empresas e funcionários, além disso, caso o usuário tenha um cadastro de convidado ele terá acesso apenas para a visualização destes dados. ',
     tags: ['TypeScript', 'React.js', 'TailwindCSS', 'Firebase'],
     links: [
-      'bix-project-jknisspell.vercel.app',
+      'https://bix-project-jknisspell.vercel.app/SignIn',
       'https://github.com/joaoKnisspell/bix-project-jknisspell',
     ],
     imgPath: '/bix.jpg',
