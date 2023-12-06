@@ -22,9 +22,7 @@ export default function Card({
       <div className="flex w-full items-start justify-between">
         <div className="flex flex-col">
           <h4 className="font-bold">{title}</h4>
-          <span className="text-sm font-semibold">
-            {locale}
-          </span>
+          <span className="text-sm font-semibold">{locale}</span>
         </div>
         <div className="flex h-10 w-10 items-center justify-center rounded-full border border-zinc-300 p-1.5 shadow-lg md:p-0">
           {icon}
