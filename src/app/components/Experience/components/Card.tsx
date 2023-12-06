@@ -21,17 +21,17 @@ export default function Card({
     <article {...props}>
       <div className="flex w-full items-start justify-between">
         <div className="flex flex-col">
-          <h4 className="font-bold dark:text-zinc-100">{title}</h4>
-          <span className="text-sm font-semibold dark:text-zinc-200">
+          <h4 className="font-bold">{title}</h4>
+          <span className="text-sm font-semibold">
             {locale}
           </span>
         </div>
-        <div className="flex h-10 w-10 items-center justify-center rounded-full border border-zinc-300 p-1.5 shadow-lg dark:border-yellow-500 dark:bg-yellow-500 md:p-0">
+        <div className="flex h-10 w-10 items-center justify-center rounded-full border border-zinc-300 p-1.5 shadow-lg md:p-0">
           {icon}
         </div>
       </div>
 
-      <p className="pt-2 text-sm dark:text-zinc-400 md:text-base">{desc}</p>
+      <p className="pt-2 text-sm md:text-base">{desc}</p>
       <div className="mt-3 flex items-center gap-2 text-xs">
         <Calendar className="h-5 w-5" />
         <span>{date}</span>
