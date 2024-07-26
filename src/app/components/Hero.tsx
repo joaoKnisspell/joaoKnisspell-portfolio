@@ -54,7 +54,7 @@ export function Hero() {
       </p>
       <div className="flex flex-col items-center gap-4 md:flex-row">
         <a
-          href="/JOAO_KNISSPELL_CV.pdf"
+          href="/CURRICULO_JOAO_KNISSPELL.pdf"
           download
           className="group flex  items-center gap-2 rounded-lg bg-zinc-800 px-4 py-2 text-sm font-medium text-zinc-100  md:px-6 md:py-3 md:text-base"
         >
