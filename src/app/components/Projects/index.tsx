@@ -27,7 +27,7 @@ export function Projects() {
   return (
     <div className="projects-wrapper mx-auto max-w-[1220px] px-6 md:px-0">
       <div className="mx-auto flex max-w-2xl flex-col gap-4">
-        <SectionTitle title="Projetos Recentes" />
+        <SectionTitle title="Projetos" />
         <div className="flex flex-col gap-8">
           {projects.map((project, index) => {
             return (

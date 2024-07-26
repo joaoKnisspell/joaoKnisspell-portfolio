@@ -46,6 +46,15 @@ export const experiencesData = [
     date: 'Junho 2023 até Novembro 2023',
     icon: React.createElement(Code2),
   },
+
+  {
+    id: 6,
+    title: 'SLC Agrícola - Estagiário em Desenvolvimento Web',
+    locale: 'Porto Alegre - RS',
+    desc: 'Durante meu estágio, utilizei majoritariamente as seguintes tecnologias: React.js, Styled-Components e GraphQL. A partir delas, desenvolvi habilidades valiosas na criação de interfaces de usuário dinâmicas, estilização escopada e responsiva, além de realizar consultas eficientes de dados. Trabalhando com React.js, aprendi a construir componentes reutilizáveis e a gerenciar o estado da aplicação. Com Styled-Components, criei estilos encapsulados dentro dos componentes JavaScript. Utilizando GraphQL, otimizei o carregamento de dados, realizando consultas precisas e reduzindo requisições. Essa experiência proporcionou um desenvolvimento pessoal e profissional significativo, preparando-me para o mercado de trabalho como desenvolvedor front-end.',
+    date: 'Janeiro 2024 até o momento',
+    icon: React.createElement(Code2),
+  },
 ]
 
 export const projects = [
